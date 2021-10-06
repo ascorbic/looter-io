@@ -27,6 +27,7 @@
   "dependencies": {
     "@hendt/ebay-api": "3.3.3",
     "@heroicons/react": "1.0.4",
+    "@netlify/plugin-nextjs-experimental": "0.0.5",
     "axios": "0.21.2",
     "axios-request-throttle": "1.0.0",
     "cheerio": "1.0.0-rc.10",
