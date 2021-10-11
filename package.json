@@ -43,7 +43,7 @@
     "ts-mixer": "6.0.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs-experimental": "^0.0.6-alpha-tracing.0",
+    "@netlify/plugin-nextjs-experimental": "^0.0.6-alpha-tracing.1",
     "@tailwindcss/jit": "0.1.18",
     "@testing-library/react": "11.2.7",
     "@types/jest": "26.0.24",

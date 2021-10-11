@@ -649,10 +649,10 @@
     ufo "^0.7.9"
     unstorage "^0.2.8"
 
-"@netlify/plugin-nextjs-experimental@^0.0.6-alpha-tracing.0":
-  version "0.0.6-alpha-tracing.0"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs-experimental/-/plugin-nextjs-experimental-0.0.6-alpha-tracing.0.tgz#e620ef26c9de3f0d40c0526d762d4406590be7f0"
-  integrity sha512-mVlCw8Wom+4YAN9TR01s9gr+jdrlb8vFAlKjxKFfuB640S4OBhZOB4/mu2tAE0DJEgWP+KZkR5ibkCUieEFtuw==
+"@netlify/plugin-nextjs-experimental@^0.0.6-alpha-tracing.1":
+  version "0.0.6-alpha-tracing.1"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-nextjs-experimental/-/plugin-nextjs-experimental-0.0.6-alpha-tracing.1.tgz#6a70a9893ea90a825384a1e2e6c64810c80d038e"
+  integrity sha512-9jRUAp1LHmrZjAmJNDTTEFsG5jWBTCKFpZXuEOIJBsD5160pd9OIdtJ2aVrG8hTMtSIQN1lUo0nx8W1oWyss4g==
   dependencies:
     "@babel/core" "^7.15.0"
     "@netlify/functions" "^0.7.2"
